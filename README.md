@@ -2,4 +2,4 @@
 Network_exam
 
 
-1월 30일 Network Test Summery
+1/30 Network Test Summery
